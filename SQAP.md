@@ -10,12 +10,22 @@ Jack Deller
 
 ## Table of contents
 [1 - Title](#software-quality-assurance-plan)
-[2 -]()
-[3 -]()
-[4 -]()
-[5 -]()
-[6 -]()
+[2 - Purpose and Scope](#purpose-and-scope)
+[3 - Definitions and Acronyms](#definitions-and-acronyms)
+[4 - Reference Documents](#reference-documents)
+[5 - SQA Plan Overview](#sqa-plan-overview)
+>[5.1 - Orginization and independence]()
+[5.2 - Software Product Risk]()
+[5.3 - Tools]()
+[5.4 - Standards, Practices, and Conventions]()
+[5.5 - Effort, Resources, and Schedule]()
 
+[0 - ]()
+[0 - ]()
+[0 - ]()
+[0 - ]()
+[0 - ]()
+[0 - ]()
 
 
 ## Purpose and Scope
@@ -44,4 +54,10 @@ Jack Deller
 ### Contract Review
 ### Quality Measurement
 ### Waivers and Deviations
-### Task 
+### Task Repetition
+### Risks to Performing SQA
+### Communications Strategy
+### Non-Conformance Process
+## SQA Records
+### Analyze, Identify, Collect, File, Maintain, and Dispose
+### Avalibility of Records

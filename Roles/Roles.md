@@ -33,7 +33,8 @@ Jack Deller
 |Technical Support|Requirements Management|Participants|183|
 |Change Managment|Requirements Management|Participants|183|
 |others|Requirements Management|Participants|183|
-||Configuration Infrastructure|Configuration Management Team||
-|||||
-|||||
-|||||
+|Software Practitioners|Configuration Infrastructure|Configuration Management Team|486|
+|CCB Leader|Configuration Control and Status Accounting|Configuration Control Board (CCB)|525|
+|CCB members|Configuration Control and Status Accounting|Configuration Control Board (CCB)|525|
+|CCB Screener|Configuration Control and Status Accounting|Configuration Control Board (CCB)|525|
+|CCB Recorder|Configuration Control and Status Accounting|Configuration Control Board (CCB)|525|
